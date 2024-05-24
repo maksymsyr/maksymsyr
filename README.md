@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Azure fundamentals, C++, and more webdev.
 - 💞️ I’m looking to collaborate on any interesting projects=D
 - 📫 How to reach me => maksymsyromolot@gmail.com
-- 😄 Pronouns: don't care:/
 - ⚡ Fun fact: I love juggling!
 
 <!---
