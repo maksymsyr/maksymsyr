@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maksymsyr
 - 👀 I’m interested in coding, reading, living!!
 - 🌱 Learning how to not get replaced with AI =D
-- 💞️ I’m looking to collaborate on any interesting projects=D
+- 💞️ I’m looking to collaborate on any interesting projects 👉👈
 - 📫 How to reach me => maksymsyromolot@gmail.com
 - ⚡ Fun fact: I love juggling!
 
