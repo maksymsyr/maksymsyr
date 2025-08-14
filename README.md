@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maksymsyr
 - 👀 I’m interested in coding, reading, living!!
-- 🌱 I’m currently learning Azure fundamentals, C++, and more webdev.
+- 🌱 Learning how to not get replaced with AI =D
 - 💞️ I’m looking to collaborate on any interesting projects=D
 - 📫 How to reach me => maksymsyromolot@gmail.com
 - ⚡ Fun fact: I love juggling!
